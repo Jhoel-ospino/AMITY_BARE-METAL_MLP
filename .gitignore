@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+Amity_Cerebro/build/
+
+# ESP-IDF
+sdkconfig.old
+managed_components/
+
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
