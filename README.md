@@ -1,3 +1,7 @@
+# AMITY_BARE-METAL_MLP
+
+Implementacion Bare-Metal de una politica aprendida en el entorno de Isaac Lab en un XIAO ESP32 S3 SENSE.
+
 # Amity Cerebro
 
 Este directorio contiene el código fuente principal (el "Cerebro") del robot AMITY. Está desarrollado en C++ utilizando el framework **ESP-IDF** de Espressif para el microcontrolador ESP32.
